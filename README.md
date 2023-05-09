@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinkaung
 - 👀 I’m interested in analyzing user and business requirements, planning and designing before implementation and listening to music.
 - 🌱 I’m currently learning software development.
-- 💞️ I’m looking to collaborate on web and game development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me ...
 
 <!---
